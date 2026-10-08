@@ -9,8 +9,8 @@ Computer Science Senior Lecturer at the University of Saida and Android develope
 | App | What it does | Runs on |
 |---|---|---|
 | [**Streemly**](https://play.google.com/store/apps/details?id=com.guenoapps.streemly) | IPTV player for Xtream Codes and M3U playlists, with TMDB movie details and an interface in 6 languages | Phone, Android TV |
-| [**Sout Al-Qur'an** (صوت القرآن)](https://play.google.com/store/apps/developer?id=Gueno+Games) | Quran audio app with background playback built on Media3 | Phone, Android TV, Android Auto |
-| [**Kalemat** (كلمة السر)](https://play.google.com/store/apps/developer?id=Gueno+Games) | Arabic word-search puzzle: find the hidden words, or guess the secret word early | Phone |
+| [**Sout Al-Qur'an** (صوت القرآن)](https://play.google.com/store/apps/details?id=com.soutquran.app) | Quran audio app with background playback built on Media3 | Phone, Android TV, Android Auto |
+| [**Kalemat** (كلمة السر)](https://play.google.com/store/apps/details?id=com.guenogames.kalimat) | Arabic word-search puzzle: find the hidden words, or guess the secret word early | Phone |
 
 🔨 **Currently building:** FoodScan, a food ingredient and additive scanner for Android and iOS with Kotlin Multiplatform.
 
